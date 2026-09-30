@@ -4657,14 +4657,62 @@
     {
       "name": "Kintsugi",
       "col": 19,
-      "row": 20
+      "row": 20,
+      "release": "July 19, 2026",
+      "element": ["Light", "Life"],
+      "habitat": ["All habitats"],
+      "morphology": "Dragon (Lindwyrm)",
+      "price": "100 shards"
     }
   ],
   "This egg has a remarkably hard shell.": [
     {
       "name": "Ovidrakes",
       "col": 20,
-      "row": 20
+      "row": 20,
+      "release": "July 19, 2026",
+      "element": ["Neutral"],
+      "habitat": ["All habitats"],
+      "morphology": "Drake",
+      "price": "200 shards"
+    }
+  ],
+  "It’s...a pile of coal? When you move a piece, the rest follow.": [
+    {
+      "name": "Coal Wyrm",
+      "col": 1,
+      "row": 21,
+      "release": "August 30, 2026",
+      "element": ["Earth", "Fire"],
+      "habitat": ["Desert", "Volcano"],
+      "morphology": "Two-headed dragon (Wyrm)",
+      "price": "200 shards"
+    }
+  ],
+  "This odorous egg is sitting in a pile of seaweed.": [
+    {
+      "name": "Seaweed Drake",
+      "col": 2,
+      "row": 21,
+      "release": "August 30, 2026",
+      "element": ["Water"],
+      "habitat": ["Coast"],
+      "morphology": "Drake",
+      "price": "200 shards"
+    }
+  ],
+  "The shell of this rough egg is incredibly tough.": [
+    {
+      "name": "TBD",
+      "col": 3,
+      "row": 21
+    }
+  ],
+  "This dense egg is so cold it burns.": [
+    {
+      "name": "TBD",
+      "col": 4,
+      "row": 21
     }
   ]
 }
